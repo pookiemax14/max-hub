@@ -502,7 +502,7 @@ local Window = Rayfield:CreateWindow({
     Name = 'Xen Hub V2',
     LoadingTitle = 'Loading...',
     LoadingSubtitle = 'Please wait',
-    Theme = 'Void',
+    Theme = 'Blood',
     ConfigurationSaving = { Enabled = false },
     Discord = { Enabled = false, Invite = 'noinvitelink', RememberJoins = true },
     KeySystem = true,
