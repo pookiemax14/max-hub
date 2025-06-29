@@ -499,10 +499,10 @@ UserInputService.InputEnded:Connect(function(input)
 end)
 
 local Window = Rayfield:CreateWindow({
-    Name = 'Xen Hub V2',
+    Name = 'Sakura Hub V2',
     LoadingTitle = 'Loading...',
     LoadingSubtitle = 'Please wait',
-    Theme = 'Ocean',
+    Theme = 'Bloom',
     ConfigurationSaving = { Enabled = false },
     Discord = { Enabled = false, Invite = 'noinvitelink', RememberJoins = true },
     KeySystem = false,
