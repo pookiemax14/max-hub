@@ -505,7 +505,7 @@ local Window = Rayfield:CreateWindow({
     Theme = 'Ocean',
     ConfigurationSaving = { Enabled = false },
     Discord = { Enabled = false, Invite = 'noinvitelink', RememberJoins = true },
-    KeySystem = true,
+    KeySystem = false,
     KeySettings = {
         Title = 'Xen key system',
         Subtitle = 'Enter your key',
